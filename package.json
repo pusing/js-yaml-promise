@@ -1,0 +1,27 @@
+{
+  "name": "js-yaml-promise",
+  "version": "0.0.0",
+  "description": "Barebones Promise wrapper around js-yaml.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thejmazz/js-yaml-promise.git"
+  },
+  "keywords": [
+    "yaml",
+    "yml",
+    "promise"
+  ],
+  "author": "Julian Mazzitelli <mazzitelli.julian@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thejmazz/js-yaml-promise/issues"
+  },
+  "homepage": "https://github.com/thejmazz/js-yaml-promise#readme",
+  "dependencies": {
+    "js-yaml": "^3.6.1"
+  }
+}
