@@ -1,6 +1,6 @@
 {
   "name": "js-yaml-promise",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Barebones Promise wrapper around js-yaml.",
   "main": "index.js",
   "scripts": {
